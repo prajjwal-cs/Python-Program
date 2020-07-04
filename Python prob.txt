@@ -1,0 +1,25 @@
+recursing function -are those function who call itself.
+Q-print the fabonacci series using recursing func.
+Q-compute GCD using recursing func.
+Q-find sum of first 10 natural no.
+Q- Find Sum of digit
+
+Anonymous func.- function without name 
+(lambda function)
+
+def ------>keyword
+here we define anonymous as lambda
+syntax - lambda arguement: Expression
+
+
+Filter function- is useful to filter out the elements of the sequence 
+depending on the result of a function.
+if function return true then elements extracted else ignored
+syntax 
+  filter(function, sequence)
+  sequence----->list, tuple etc.
+
+
+Map funnction:-
+Map Function is just like filter function but it acts on each elements of sequence and changes
+the elements
